@@ -37,9 +37,9 @@ then find your ethernet interface name by running:
 
 ### add the last two lines:
 
+```
 source /etc/network/interfaces.d/*
 
-```
 auto lo
 iface lo inet loopback
 
