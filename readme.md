@@ -91,6 +91,8 @@ WantedBy=network-online.target
 
 Change the "WorkingDirectory=/home/ubuntu" to the directory where `listen.py` is located.
 
+https://www.shubhamdipt.com/blog/how-to-create-a-systemd-service-in-linux/
+
 ## Usage
 
 run `remote.py` on the client machine:
