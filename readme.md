@@ -5,7 +5,7 @@ This repository contains two Python scripts designed to facilitate remote contro
 ## Prerequisites
 
 - Python 3.x installed on your system.
-- A computer to act as the server (the one receiving commands) and another to act as the client (the one sending commands).
+- A linux server (the one receiving commands) and another to act as the client (the one sending commands).
 - Ensure the target computer supports Wake-on-LAN and that this feature is enabled in its BIOS settings.
 - Network connectivity between the client and server computers.
 - pip install wakeonlan
