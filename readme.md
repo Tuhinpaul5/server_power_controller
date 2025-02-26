@@ -82,7 +82,7 @@ Description=Sleep using packet
 [service]
 Type=simple
 User=root
-WorkingDirectory=/home/ubuntu
+WorkingDirectory=<YOUR WORKING DIRECTORY>
 ExecStart= python listen.py
 
 [install]
