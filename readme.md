@@ -31,7 +31,7 @@ then find your ethernet interface name by running:
 
 `ifconfig`
 
-# for debian run:
+# FOR debian:
 
 `sudo nano /etc/nnetwork/interfaces`
 
@@ -51,7 +51,7 @@ iface enp8s0 inet dhcp
 
 change enp8s0 to your interface name.
 
-# For ubuntu :
+# For ubuntu:
 
 by adding a file to /etc/netplan, named /etc/netplan/50-wol.yaml
 
